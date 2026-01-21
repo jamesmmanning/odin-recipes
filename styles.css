@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+   
+}
+
+body {
+    font-family: 'Lucida Sans Typewriter'
+    font-size: 16px;
+    background-color: rgb(138,123,156);
+    color: rgb(217,213,221);
+}
+
+h1.title {
+    text-align: center;
+}
+
+.main-home {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.welcome {
+    padding: 15px;
+    max-width: 45%;
+    margin: 5px;
+    display: inline-block;
+    border: 1px solid rgb(84,61,111);
+}
+
+.welcome h2 {
+    text-align: center;
+}
+
+.purpose {
+    max-width: 45%;
+    padding: 15px;
+    margin: 5px;
+    display: inline-block;
+    border: 1px solid rgb(84,61,111);
+}
+
+.purpose h2 {
+    text-align: center;
+}
+
+.odin-project {
+    margin:0 auto;
+    text-align: center;
+}
